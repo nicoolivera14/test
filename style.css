@@ -1,3 +1,8 @@
 body {
     background: green;
 }
+
+footer {
+    background: gray;
+    font-size: 20px;
+}
